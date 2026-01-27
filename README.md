@@ -1,1 +1,1 @@
-# PlayFair-Cypher
+# PlayFair-Cipher

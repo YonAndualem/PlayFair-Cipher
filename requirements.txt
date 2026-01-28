@@ -1,0 +1,7 @@
+# PlayFair Cipher - Python Implementation
+
+# No external dependencies required for core functionality
+# GUI requires tkinter (usually pre-installed with Python)
+
+# Optional: for development
+# pytest>=7.0.0  # For running tests with pytest instead of built-in runner

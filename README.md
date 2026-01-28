@@ -5,6 +5,7 @@ Python implementation of the PlayFair cipher, a classical digraph substitution c
 ## Overview
 
 The PlayFair cipher encrypts pairs of letters using a 5×5 matrix generated from a keyword. It was one of the first practical digraph substitution ciphers and was notably used in military communications.
+![Tests](https://github.com/YonAndualem/PlayFair-Cipher/actions/workflows/python-app.yml/badge.svg)
 
 ## Installation
 

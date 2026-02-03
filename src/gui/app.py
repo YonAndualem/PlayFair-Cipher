@@ -29,7 +29,7 @@ class PlayFairGUI:
         
         title_label = tk.Label(
             main_frame,
-            text="🔐 PlayFair Cipher",
+            text="PlayFair Cipher",
             font=('Arial', 24, 'bold'),
             bg='#f0f0f0',
             fg='#2c3e50'
@@ -38,7 +38,7 @@ class PlayFairGUI:
         
         subtitle_label = tk.Label(
             main_frame,
-            text="Digraph Substitution Cipher (1854)",
+            text="Demonstration",
             font=('Arial', 10, 'italic'),
             bg='#f0f0f0',
             fg='#7f8c8d'

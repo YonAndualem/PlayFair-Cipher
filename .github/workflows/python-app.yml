@@ -37,3 +37,4 @@ jobs:
     - name: Run tests
       run: |
         python main.py test
+        python main6x6.py test
